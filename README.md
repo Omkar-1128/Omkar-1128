@@ -23,20 +23,6 @@ const omkar = {
     motto: "Clean code isn't written, it's refactored"
 };
 ```
-
-<div align="center">
-
-### 🌟 What I Do
-
-</div>
-
-🔥 Build high-performance backend systems with **Node.js & Express**  
-⚡ Craft beautiful, responsive UIs using **React & Tailwind CSS**  
-🛡️ Implement secure authentication with **JWT & OAuth**  
-📊 Design efficient database schemas with **MongoDB & MySQL**  
-🚀 Deploy scalable apps on **Vercel, Render & AWS**  
-💡 Solve complex problems with **Data Structures & Algorithms**
-
 ---
 
 ## 💻 Tech Stack  
@@ -95,14 +81,6 @@ const omkar = {
     <source media="(max-width: 768px)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-1128&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
     <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-1128&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
   </picture>
-</div>
-
----
-
-## 💡 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
