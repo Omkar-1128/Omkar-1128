@@ -2,7 +2,10 @@
 
 # 👨‍💻 Omkar Shelke
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist;Backend+Architecture+Expert;Building+Scalable+Solutions;Open+Source+Contributor" alt="Typing SVG" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=280&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist;Backend+Expert;Scalable+Solutions;Open+Source" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist;Backend+Architecture+Expert;Building+Scalable+Solutions;Open+Source+Contributor" alt="Typing SVG" />
+</picture>
 
 </div>
 
@@ -73,15 +76,25 @@ const omkar = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omkar-1128&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
- <img width="49%" 
-     src="https://nirzak-streak-stats.vercel.app/?user=Omkar-1128&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B" 
-     alt="Streak Stats"/>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=Omkar-1128&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omkar-1128&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://nirzak-streak-stats.vercel.app/?user=Omkar-1128&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B" />
+    <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Omkar-1128&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B" alt="Streak Stats"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-1128&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-1128&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-1128&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-1128&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+  </picture>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-1128&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-1128&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
+  </picture>
 </div>
 
 ---
