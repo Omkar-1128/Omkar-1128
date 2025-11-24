@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist;Backend+Architecture+Expert;Building+Scalable+Solutions;Open+Source+Contributor" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omkar-1128&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Omkar-1128?label=Followers&style=for-the-badge&color=00D9FF" alt="Followers" />
-</p>
-
 </div>
 
 ---
@@ -79,8 +74,9 @@ const omkar = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omkar-1128&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
- <img width="49%" src="https://streak-stats.demolab.jp/?user=Omkar-1128&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B" alt="Streak Stats"/>
-
+ <img width="49%" 
+     src="https://nirzak-streak-stats.vercel.app/?user=Omkar-1128&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B" 
+     alt="Streak Stats"/>
 </div>
 
 <div align="center">
